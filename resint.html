@@ -16,17 +16,25 @@
 <div class="menu-item"><a href="resint.html" class="current">Research&nbsp;Interests</a></div>
 <div class="menu-item"><a href="pubs.html">Publications</a></div>
 <div class="menu-item"><a href="projs.html">Projects</a></div>
+<div class="menu-item"><a href="code.html">Code Samples</a></div>
 <div class="menu-item"><a href="misc.html">Miscellaneous</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
 <h1>Research Interests</h1>
 </div>
-<p>I am generally interested in theoretical machine learning, especially statistical and computational issues relevant to the use of machine learning in practice. In my time at Microsoft Research and at IIT Bombay, I have had the chance to explore both practical and theoretical problems in machine learning:</p>
+<p>I am generally interested in machine learning, especially algorithmic and computational issues relevant to the use of machine learning in practice. In my time at Microsoft Research, I have had the chance to apply machine learning to real world scenarios, identifying research problems from the applications and reiterating this process:</p>
 <ul>
-<li><p><b>Provable Non-convex Methods for Robust Learning</b> <br /> In these projects, I worked on two problems in robust estimation. We developed non-convex optimization techniques for both these problems with similar guarantees to best convex optimization based methods with vastly superior empirical performance on practical problems.</p>
+<li><p><b>Extreme Classification for Bing Ad Recommendations</b> <br /> In this project, I worked on improving Bing Ad Recommendations using Extreme Classification. We started off by applying the then state-of-the-art algorithm PfastreXML and were able to ship our work in production. Later we improved this by a large margin by applying a powerful ensemble of Extreme Classification algorithms, PfastreXML, SwiftXML (accepted in WSDM, 2018) and Parabel (in submission in WWW, 2018).</p>
 </li>
-<li><p><b>Entity Linking and Disambiguation</b> <br /> In this project, I worked on the problem of tackling No Attachment (NA) mentions in the Entity Linking task using hierarchical non-parametric topic models.</p>
+<li><p><b>Research Problems in Extreme Classificaiton</b> <br /> While applying Extreme Classification in products, we came across many research problems in this domain.
+    <ul>
+    <li>In Extreme Classification traditionaly binary label weights have been used but these do not yield desired results in applications, forcing us to explore many labelling strategies before setting onto point-wise mutual weights.</li>
+    <li>Extreme Classification algorithms do not output the scores in same range for all the labels and choosing good recommendations via heuristics such as top k or a global threshold is not optimal. We were able to come up with a novel formulation to get the number of recommendations to be picked per page, as popular pages may have more relevant labels in comparison to tail pages. </li>
+    <li>Traditionally Extreme Classificaiton algorithms have only been using feature information from the users side and ignoring the rich information available on label side. In SwiftXML, we explore the use of label features and create a classifier similar in scale to PfastreXML but better in performance.</li>
+    </ul>
+    
+    </p>
 </li>
 </ul>
 </td>

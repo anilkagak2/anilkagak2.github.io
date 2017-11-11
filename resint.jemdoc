@@ -1,9 +1,6 @@
 # jemdoc: menu{MENU}{resint.html}, nofooter
 = Research Interests
 
-I am generally interested in theoretical machine learning, especially statistical and computational issues relevant to the use of machine learning in practice. In my time at Microsoft Research and at IIT Bombay, I have had the chance to explore both practical and theoretical problems in machine learning:
-- *Provable Non-convex Methods for Robust Learning* \n In these projects, I worked on two problems in robust estimation. We developed non-convex optimization techniques for both these problems with similar guarantees to best convex optimization based methods with vastly superior empirical performance on practical problems.
-- *Entity Linking and Disambiguation* \n In this project, I worked on the problem of tackling No Attachment (NA) mentions in the Entity Linking task using hierarchical non-parametric topic models.
-
-# We proposed efficient algorithms based on fast, easy to implement techniques like hard thresholding and singular value decomposition as opposed to slower approaches based on convex optimization. These algorithms were shown to have superior empirical performance with theoretical guarantees comparable to the best convex optimization based approaches for the same problems.
-# Entity linking is the task of annotating mentions of entities in a piece of text with their referents in a knowledge base like Wikipedia. Entity linking is an important problem in semantic web search but is plagued by the problem of NA mentions
+I am generally interested in machine learning, especially algorithmic and computational issues relevant to the use of machine learning in practice. In my time at Microsoft Research, I have had the chance to apply machine learning to real world scenarios, identifying research problems from the applications and reiterating this process:
+- *Extreme Classification for Bing Ad Recommendations* \n In this project, I worked on improving Bing Ad Recommendations using Extreme Classification. We started off by applying the then state-of-the-art algorithm PfastreXML and were able to ship our work in production. Later we improved this by a large margin by applying a powerful ensemble of Extreme Classification algorithms, PfastreXML, SwiftXML (accepted in WSDM, 2018) and Parabel (in submission in WWW, 2018). 
+- *Research Problems in Extreme Classificaiton* \n While applying Extreme Classification in products, we came across many research problems in this domain. 
