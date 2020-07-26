@@ -81,7 +81,7 @@ git checkout -b $DEPLOY_BRANCH
 sudo bundle exec jekyll build
 
 # Delete and move files
-find . -maxdepth 1 ! -name 'old_site' ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
+find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
 sudo mv _site/* .
 sudo rm -R _site/
 
