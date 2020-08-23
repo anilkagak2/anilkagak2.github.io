@@ -10,10 +10,10 @@ nav: true
 + *Work Experience*
 ---
 	+ Research Intern, Microsoft Research Redmond, Seattle [June, 2020 - August 2020]
-	<br /> Mentor: Dr. Prateek Jain, Sr. Principal Researcher
+	<br /> Mentor: [Dr. Prateek Jain](https://www.prateekjain.org/), Sr. Principal Researcher
 
 	+ Research Fellow, Microsoft Research India, Bangalore [July, 2016 - July, 2018]
-	<br /> Mentor: Dr. Manik Varma, Sr. Principal Researcher
+	<br /> Mentor: [Dr. Manik Varma](http://manikvarma.org/), Sr. Principal Researcher
 
 	+ Software Engineer, Dynamics, Microsoft India Development Center, Bangalore [October, 2014 - July, 2016]
 	<br /> Mentor: Sunil Ajjampur Jagadeesh, Principal Software Engineering Manager
