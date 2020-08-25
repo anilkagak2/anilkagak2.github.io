@@ -27,6 +27,9 @@ nav: true
 ---
 + *Talks*
 ---
+	+ Tiny ML models for Phish Detection (August 2020)
+	<br/><i>Microsoft S+C & Microsoft Research, Redmond</i>
+
 	+ Extreme Classification in Bing Text Ads, Dynamic Search Ads & Product Ads (October 2017)
 	<br/><i>Bing Ads Team & Microsoft Research India, Bangalore</i>
 
@@ -45,6 +48,12 @@ nav: true
 	+ Phone Number Annotator for Bing Local Business Mining Service (July 2013) 
 	<br/><i>Bing, Microsoft India Development Center, Hyderabad</i>
  
+---
++ *Reviewer Duties*
+---
+	+ [2020] [COLT](http://learningtheory.org/colt2020/), [NeurIPS](https://nips.cc/)
+	+ [2019] [IJCAI](https://www.ijcai19.org/)
+	
 ---
 + *Code Samples*
 ---
