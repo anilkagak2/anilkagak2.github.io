@@ -19,5 +19,4 @@ I am a Ph.D. candidate in the Electical and Computer Engineering Department at C
 
 You can find more details in my [curriculum vitae](/assets/pdf/cv.pdf).
 
-Page hits counter ![page hit counter](http://www.hit-counts.com/counter.php?t=MTQyMjYyMg==)
 
