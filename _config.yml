@@ -84,7 +84,7 @@ collections:
     permalink: /funprojects/:path/
 
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
