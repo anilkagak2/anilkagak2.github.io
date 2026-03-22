@@ -1,6 +1,0 @@
-# jemdoc: menu{MENU}{resint.html}, nofooter
-= Research Interests
-
-I am generally interested in machine learning, especially algorithmic and computational issues relevant to the use of machine learning in practice. In my time at Microsoft Research, I have had the chance to apply machine learning to real world scenarios, identifying research problems from the applications and reiterating this process:
-- *Extreme Classification for Bing Ad Recommendations* \n In this project, I worked on improving Bing Ad Recommendations using Extreme Classification. We started off by applying the then state-of-the-art algorithm PfastreXML and were able to ship our work in production. Later we improved this by a large margin by applying a powerful ensemble of Extreme Classification algorithms, PfastreXML, SwiftXML (accepted in WSDM, 2018) and Parabel (in submission in WWW, 2018). 
-- *Research Problems in Extreme Classificaiton* \n While applying Extreme Classification in products, we came across many research problems in this domain. 

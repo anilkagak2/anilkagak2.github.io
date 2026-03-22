@@ -1,0 +1,192 @@
+cv:
+  name: Anil Kag
+  label: Senior Research Scientist | Lead, Efficient Generative AI
+  email: anilkagak2@gmail.com
+  location: Los Angeles, CA
+  image: anil_kag.jpg
+  summary: Senior Research Scientist and Team Lead for Efficient Generative AI at Snap Research. Expert in efficient generative AI, including image and video generation, efficient architectures, and large-scale training.
+  social_networks:
+    - network: Google Scholar
+      username: bZdVsMkAAAAJ
+      url: https://scholar.google.com/citations?user=bZdVsMkAAAAJ
+    - network: GitHub
+      username: anilkagak2
+      url: https://github.com/anilkagak2
+    - network: LinkedIn
+      username: anilkag
+      url: https://www.linkedin.com/in/anilkag/
+
+  address:
+    city: Los Angeles
+    region: California
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: Boston University
+        location: MA, USA
+        url: https://www.bu.edu/
+        area: Electrical & Computer Engineering
+        studyType: Ph.D.
+        start_date: 2018
+        end_date: 2023
+        score: "3.96 / 4.0"
+        highlights:
+          - "Dissertation: [Novel Neural Architectures & Algorithms for Efficient Inference](https://open.bu.edu/items/954c2be5-161c-49e4-92b2-05df5911a339)"
+          - "Committee: Profs. Venkatesh Saligrama (Advisor), Brian Kulis, Alexander Olshevsky, Kilian Q. Weinberger, and Prateek Jain."
+
+      - institution: Boston University
+        location: MA, USA
+        url: https://www.bu.edu/
+        area: Electrical & Computer Engineering
+        studyType: M.S.
+        start_date: 2018
+        end_date: 2022
+        score: "3.96 / 4.0"
+
+      - institution: Indian Institute of Technology
+        location: Guwahati, India
+        url: https://www.iitg.ac.in/
+        area: Computer Science
+        studyType: B.Tech.
+        start_date: 2010
+        end_date: 2014
+        score: "9.20 / 10"
+        highlights:
+          - "Ranked 4th out of 80 students in the Computer Science Class of 2014."
+
+    Experience:
+      - company: Snap Research
+        position: Senior Research Scientist (L5) | Team Lead, Efficient GenAI
+        location: Santa Monica, CA
+        start_date: 2025-04-01
+        end_date: Present
+        summary: Lead Efficient Generative AI Team, directing the technical strategy for Snap's hardware-agnostic generative stack.
+        highlights:
+          - "Elastic Supernetworks: Spearheading the development of SnapGen++, a pioneering Elastic Diffusion Transformer (DiT) framework."
+          - "Efficiency Frontiers: Architecting the next generation of SnapVideo models, achieving superior generation quality at significantly lower inference compute."
+          - "Mobile Video Pioneers: Directing the team in the design of high-performance DiT models capable of real-time streaming video generation on-device."
+          - "Strategic Mentorship: Leading a team of research scientists to bridge the gap between foundational research and production-scale AI deployment."
+
+      - company: Snap Research
+        position: Research Scientist (L4)
+        location: Santa Monica, CA
+        start_date: 2023-07-01
+        end_date: 2025-03-31
+        summary: Developed foundational generative architectures that transitioned from academic highlights to core Snapchat product features.
+        highlights:
+          - "SnapGen (Patent-Pending): Authored the landmark SnapGen paper (CVPR 2024 Highlight); orchestrated the architecture for which Snap Inc. filed a United States Patent."
+          - "Large-Scale Product Impact: Engineered SnapVideo v2, powering numerous AI Lenses used by hundreds of millions of Snapchat users daily."
+          - "Scholarly Leadership: Mentored over 10 Research Interns, resulting in prolific output at top-tier conferences (CVPR, NeurIPS)."
+
+      - company: Microsoft Research
+        position: Research Fellow
+        location: Bangalore, India
+        start_date: 2016
+        end_date: 2018
+        summary: Advanced the field of Extreme Multi-label Classification (XMC) for industrial recommendation systems.
+        highlights:
+          - "Developed Parabel and SwiftXML, core algorithms that achieved a 13.6% increase in CTR for Bing Ads."
+
+      - company: Microsoft
+        position: Software Engineer
+        location: Bangalore, India
+        start_date: 2014
+        end_date: 2016
+        summary: Optimized the Interactive Service Hub for Dynamics CRM, reducing page load times by over 50%.
+
+    Patents:
+      - title: "ELITE: One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers"
+        awarder: Snap Inc.
+        date: 2025
+        summary: "Patent Status: Approved for Filing (Sept 2025)"
+      - title: "Sprint: Sparse-Dense Residual Fusion for Efficient Diffusion Transformers"
+        awarder: Snap Inc.
+        date: 2025
+        summary: "Patent Status: Approved for Filing (Sept 2025)"
+      - title: "DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion"
+        awarder: Snap Inc.
+        date: 2025
+        summary: "Patent Status: Approved for Filing (May 2025)"
+      - title: "SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices"
+        awarder: Snap Inc.
+        date: 2024
+        summary: "Patent Status: US Patent Filed (Nov 2024)"
+      - title: "BitsFusion: 1.99 bits Weight Quantization of Diffusion Model"
+        awarder: Snap Inc.
+        date: 2024
+        summary: "Patent Status: US Patent Filed (May 2024)"
+      - title: "Sf-V: Single Forward Video Generation Model"
+        awarder: Snap Inc.
+        date: 2024
+        summary: "Patent Status: US Patent Filed (May 2024)"
+      - title: "Mind the Time: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis"
+        awarder: Snap Inc.
+        date: 2023
+        summary: "Patent Status: US Patent Filed (Nov 2023)"
+      - title: "AsCAN: Asymmetric Convolution-Attention Neural Networks"
+        awarder: Snap Inc.
+        date: 2023
+        summary: "Patent Status: US Patent Filed (Nov 2023)"
+      - title: "TextCraft: Your Text Encoder Can be Image Quality Controller"
+        awarder: Snap Inc.
+        date: 2023
+        summary: "Patent Status: US Patent Filed (Nov 2023)"
+
+    Awards:
+      - title: CVPR Highlight Award
+        date: 2025
+        awarder: CVPR
+        summary: Research on SnapGen and Snap Video selected for Highlight presentation (Top 3-5% of global submissions).
+      - title: NeurIPS Spotlight Award
+        date: 2025
+        awarder: NeurIPS
+        summary: Recognized for high-impact contributions to Video Diffusion (DenseDPO).
+      - title: CVPR Highlight Award
+        date: 2024
+        awarder: CVPR
+      - title: ICML DyNN Workshop Spotlight
+        date: 2022
+        awarder: ICML
+      - title: NeurIPS Spotlight Award
+        date: 2021
+        awarder: NeurIPS
+        summary: Recognized for high-impact contributions to Selective Classification.
+      - title: Top 10% Reviewer Recognition
+        date: 2020
+        awarder: NeurIPS
+      - title: Rafik Hariri Graduate Student Fellowship
+        date: 2020
+        awarder: Boston University
+      - title: Dean's Ph.D. Fellowship
+        date: 2018
+        awarder: Boston University
+      - title: IIT-JEE All India Rank 1761
+        date: 2010 
+        summary: Secured a rank in the top 0.4% of 450,000+ candidates.
+
+    Skills:
+      - name: Generative AI
+        level: Expert
+        keywords: "Diffusion Models, Image and Video Generation, Efficient Architectures and Training Algorithms, RLHF & Preference Optimization"
+      - name: Machine Learning
+        level: Expert
+        keywords: "Deep Learning, Extreme Classification, Efficient Inference, TinyML, Optimization"
+
+    Languages:
+      - name: English
+        summary: Fluent
+      - name: Hindi
+        summary: Native
+
+    Academic Service:
+      - title: Peer Review
+        summary: Evaluated 100+ research manuscripts for top-tier venues.
+        highlights:
+          - "**2025:** [CVPR](https://cvpr.thecvf.com/Conferences/2025/), [NeurIPS](https://neurips.cc/Conferences/2025/ProgramCommittee)"
+          - "**2024:** [CVPR](https://cvpr.thecvf.com/Conferences/2024/), [NeurIPS](https://neurips.cc/Conferences/2024/ProgramCommittee)"
+          - "**2023:** [ICML](https://icml.cc/Conferences/2023/Reviewers), [NeurIPS](https://neurips.cc/Conferences/2023/ProgramCommittee), [ICLR](https://iclr.cc/Conferences/2023/Reviewers), [TMLR](https://jmlr.org/tmlr/), [CVPR](https://cvpr2023.thecvf.com/Conferences/2023)"
+          - "**2022:** [ICML](https://icml.cc/Conferences/2022/Reviewers), [NeurIPS](https://neurips.cc/Conferences/2022/ProgramCommittee), [ICLR](https://iclr.cc/Conferences/2022/Reviewers), [TMLR](https://jmlr.org/tmlr/)"
+          - "**2021:** [ICML](https://icml.cc/Conferences/2021/Reviewers), [NeurIPS](https://nips.cc/Conferences/2021/ProgramCommittee), [COLT](https://www.learningtheory.org/colt2021/), [AAAI](https://aaai.org/), [ICASSP](https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html)"
+          - "**2020:** [COLT](https://learningtheory.org/colt2020/), [NeurIPS](https://nips.cc/Conferences/2020/Reviewers)"
+          - "**2019:** [IJCAI](https://www.ijcai19.org/)"
